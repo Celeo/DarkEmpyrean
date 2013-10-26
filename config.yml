@@ -1,0 +1,111 @@
+claims: []
+respawn:
+  allCanSetBed:
+  - empyreal
+mobLimitPerChunk: 8
+snow:
+  chance: 25
+  damage: 1
+helper:
+  all:
+  - donations
+  - petitionplugin
+  - darksneak
+  - darkbox
+  - cannons
+  - factions
+  - signs
+  - darkchat
+  - claim
+  donations:
+    keywords:
+    - donate
+    - donation
+    - donations
+    - donating
+    link: 'http://darktidegames.com/l/a.php?k=Q9XucQftt0'
+  petitionplugin:
+    keywords:
+    - petition
+    - pe
+    - pes
+    - petitions
+    - petitioning
+    - staff
+    link: 'http://darktidegames.com/l/a.php?k=ex02FHLnMp'
+  darksneak:
+    keywords:
+    - darksneak
+    - sneak
+    - sneaking
+    - hiding
+    link: 'http://darktidegames.com/l/a.php?k=HYS8rlFPxe'
+  darkbox:
+    keywords:
+    - darkbox
+    - donations
+    - box
+    - storage
+    link: 'http://darktidegames.com/l/a.php?k=XnnUSAK73e'
+  cannons:
+    keywords:
+    - cannon
+    - canon
+    - cannons
+    - shooting
+    - cannonball
+    - cannonballs
+    link: 'http://darktidegames.com/l/a.php?k=8iL8krQ5OD'
+  factions:
+    keywords:
+    - faction
+    - f
+    - factions
+    - guild
+    - guilds
+    - group
+    - groups
+    - party
+    - parties
+    - land
+    - protected
+    - protection
+    link: 'http://darktidegames.com/l/a.php?k=uvCnE3JkTg'
+  signs:
+    keywords:
+    - sign
+    - signs
+    - shop
+    - shops
+    - buy
+    - sell
+    link: 'http://darktidegames.com/l/a.php?k=yQEWKwwvDA'
+  darkchat:
+    keywords:
+    - chat
+    - message
+    - tell
+    - whisper
+    - msg
+    - tells
+    - privmsg
+    - privatemsg
+    - privatemsg
+    - privatemessage
+    link: 'http://darktidegames.com/l/a.php?k=JMSvUcWLiL'
+  claim:
+    link: http://darktidegames.com/l/a.php?k=rwzk064Neh
+    keywords:
+    - claim
+    - donation
+    - portals
+    - get
+  darkland:
+    link: http://darktidegames.com/l/a.php?k=rlwOuSsC0x
+    keywords:
+    - lo
+    - landowner
+    - land
+    - darkland
+    - plot
+    - perk

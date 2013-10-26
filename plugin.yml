@@ -1,0 +1,14 @@
+name: Empyrean
+version: 0.1.12.1
+author: Celeo
+description: Plugin stuff
+website: http://darktidegames.com
+main: com.darktidegames.empyrean.WarsPlugin
+depend: [bPermissions, Essentials, WorldEdit, WorldGuard]
+commands:
+  wars:
+    usage: /<command> [what] - Server commands
+  claim:
+    usage: /<command> - claim portals from the server set by Admins
+  startpvp:
+    usage: /<command> - turns off your pvp invulnerability!
